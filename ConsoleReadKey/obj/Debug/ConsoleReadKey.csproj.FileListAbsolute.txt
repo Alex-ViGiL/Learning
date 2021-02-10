@@ -1,0 +1,7 @@
+C:\GitHub\Learning\ConsoleReadKey\bin\Debug\ConsoleReadKey.exe.config
+C:\GitHub\Learning\ConsoleReadKey\bin\Debug\ConsoleReadKey.exe
+C:\GitHub\Learning\ConsoleReadKey\bin\Debug\ConsoleReadKey.pdb
+C:\GitHub\Learning\ConsoleReadKey\obj\Debug\ConsoleReadKey.csprojAssemblyReference.cache
+C:\GitHub\Learning\ConsoleReadKey\obj\Debug\ConsoleReadKey.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning\ConsoleReadKey\obj\Debug\ConsoleReadKey.exe
+C:\GitHub\Learning\ConsoleReadKey\obj\Debug\ConsoleReadKey.pdb
