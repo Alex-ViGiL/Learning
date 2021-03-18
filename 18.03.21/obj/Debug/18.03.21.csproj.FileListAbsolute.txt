@@ -1,0 +1,7 @@
+D:\Git\Learning\18.03.21\bin\Debug\18.03.21.exe.config
+D:\Git\Learning\18.03.21\bin\Debug\18.03.21.exe
+D:\Git\Learning\18.03.21\bin\Debug\18.03.21.pdb
+D:\Git\Learning\18.03.21\obj\Debug\18.03.21.csprojAssemblyReference.cache
+D:\Git\Learning\18.03.21\obj\Debug\18.03.21.csproj.CoreCompileInputs.cache
+D:\Git\Learning\18.03.21\obj\Debug\18.03.21.exe
+D:\Git\Learning\18.03.21\obj\Debug\18.03.21.pdb
